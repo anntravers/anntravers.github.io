@@ -1,0 +1,12 @@
+# Site settings
+title: Tutts Plus Plus
+email: travers.kt+tutts47@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ann "Tutts" Travers learns to code.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: tutts47
+github_username:  anntravers
+learn_profile: learn.co/anntravers
+
+# Build settings
+markdown: kramdown
